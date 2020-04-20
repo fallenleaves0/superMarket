@@ -1,0 +1,2 @@
+1.设置渐变色不能用background-color而是background
+2.没有把p标签的margin重置，导致我的logo不在最左边（被挤到右边了）
